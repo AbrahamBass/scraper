@@ -48,7 +48,7 @@ Este proyecto es una aplicación de Node.js que utiliza Puppeteer para realizar 
 - **Retorno:** Array de textos encontrados.
 - **Ejemplo de solicitud:**
     ```sh
-    curl "http://localhost:3000/get/by/atribute?url=https://ejemplo.com&selector=#about"
+    curl "https://scraper-aiqa.onrender.com/get/by/atribute?url=https://ejemplo.com&selector=#about"
     ```
 - **Respuesta:**
     ```json
@@ -70,7 +70,7 @@ Este proyecto es una aplicación de Node.js que utiliza Puppeteer para realizar 
 - **Retorno:** Elementos encontrados con su texto, ID y clase.
 - **Ejemplo de solicitud:**
     ```sh
-    curl "http://localhost:3000/get/by/title?url=https://ejemplo.com&title=Texto exacto"
+    curl "https://scraper-aiqa.onrender.com/get/by/title?url=https://ejemplo.com&title=Texto exacto"
     ```
 - **Respuesta:**
     ```json
@@ -94,7 +94,7 @@ Este proyecto es una aplicación de Node.js que utiliza Puppeteer para realizar 
 - **Retorno:** Captura de pantalla en formato de imagen.
 - **Ejemplo de solicitud:**
     ```sh
-    curl "http://localhost:3000/screenshot?url=https://ejemplo.com" -o screenshot.png
+    curl "https://scraper-aiqa.onrender.com/screenshot?url=https://ejemplo.com" -o screenshot.png
     ```
 
 ---
@@ -103,7 +103,7 @@ Este proyecto es una aplicación de Node.js que utiliza Puppeteer para realizar 
 
 Este proyecto utiliza Swagger para documentar la API. Puedes acceder a la documentación interactiva de Swagger en la siguiente ruta:
 
-- **URL:** `http://localhost:3000/api-docs`
+- **URL:** `https://scraper-aiqa.onrender.com/api/docs`
 
 ---
 
