@@ -99,6 +99,14 @@ Este proyecto es una aplicación de Node.js que utiliza Puppeteer para realizar 
 
 ---
 
+## 📄 Documentación con Swagger
+
+Este proyecto utiliza Swagger para documentar la API. Puedes acceder a la documentación interactiva de Swagger en la siguiente ruta:
+
+- **URL:** `http://localhost:3000/api-docs`
+
+---
+
 ## 🛠️ Contribuciones
 
 Las contribuciones son bienvenidas. Para contribuir, sigue estos pasos:
