@@ -111,12 +111,6 @@ Las contribuciones son bienvenidas. Para contribuir, sigue estos pasos:
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
-
----
-
 ¡Gracias por utilizar esta API! Si tienes alguna pregunta o problema, no dudes en abrir un issue en GitHub.
 
 
